@@ -1,2 +1,3 @@
 # Notes
-A program that plays the seven notes in the scale of Dó (with an octave)
+I'm just learning about audio, DSP and data over sound
+This is just my first attempt to apply what I'm studying
